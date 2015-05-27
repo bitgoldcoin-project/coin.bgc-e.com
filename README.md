@@ -1,4 +1,4 @@
 # www.bgc.info
 
-**install Manual**
+**How to Install**
 
