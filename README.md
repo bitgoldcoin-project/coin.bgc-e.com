@@ -1,4 +1,4 @@
-# www.bgc.info
+# coin.bgc-e.com
 
 **How to Install**
 
